@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "description": "WNI-MODE",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "WNI-MODE",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "WNI-MODE",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
